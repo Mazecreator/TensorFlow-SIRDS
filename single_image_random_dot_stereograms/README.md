@@ -1,6 +1,6 @@
 # TensorFlow-SIRDS DEMO
 
-- [SIRDS DEMO](./SIRDS Demo.ipynb)
+- [SIRDS DEMO](/SIRDS%20Demo.ipynb/)
 
 ## TensorFlow OP definition:
 

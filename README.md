@@ -10,5 +10,5 @@ This project is based upon:
 http://www.learningace.com/doc/4331582/b6ab058d1e206d68ab60e4e1ead2fe6e/sirds-paper
 
 ## Sections
-- [SIRDS usage demo for TensorFlow Op](./single_image_random_dot_stereograms/SIRDS Demo.ipynb)
+- [SIRDS usage demo for TensorFlow Op](./single_image_random_dot_stereograms/SIRDS%20Demo.ipynb)
 
