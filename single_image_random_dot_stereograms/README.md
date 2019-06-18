@@ -24,7 +24,7 @@ encode_PNG/JPG ops.  Be careful with image compression as this may corrupt the
 encode 3-D data witin the image.
 
 This Op is based upon:
-'http://www.learningace.com/doc/4331582/b6ab058d1e206d68ab60e4e1ead2fe6e/sirds-paper'
+'https://www.cs.waikato.ac.nz/~ihw/papers/94-HWT-SI-IHW-SIRDS-paper.pdf'
 
 Example use which outputs a SIRDS image as picture_out.png:
 ```python
